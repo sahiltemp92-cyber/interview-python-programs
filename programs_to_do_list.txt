@@ -20,7 +20,6 @@ Find Maximum and Minimum: Find the maximum and minimum element in an array.
 
 Medium - Done
 -------
--------
 Unit Converter:Convert Kilometers to Miles and vice versa: Convert Celsius temperature to Fahrenheit versa.
 Anagram Check: Check if two strings are anagrams of each other.
 Check Palindrome Number: Check if a given number is a palindrome.
@@ -34,6 +33,8 @@ Check Armstrong Number: Check if a given number is an Armstrong number.
 Linear Search: Find the index of a target element in an array using linear search.
 Binary Search: Find the index of a target element in a sorted array using binary search.
 Check Perfect Number: Check if a given number is a perfect number.
+Word count: Return the count of words from a given paragraph
+Two sum : Input a list of integers - Output the indices of integers whose sum is given number N
 
 Medium - To Do
 ------------
