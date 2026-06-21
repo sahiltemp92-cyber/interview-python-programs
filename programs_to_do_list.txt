@@ -54,6 +54,7 @@ Pangram Check : check if given string contains every letter of the alphabets[A t
 
 Tough - To Do
 --------------
+Find count of occurrences of each word in a paragraph
 Quick Sort: Sort an array of integers using quick sort algorithm.
 Find Kth Smallest Element: Find the kth the smallest element in an unsorted array.
 Find Kth Largest Element: Find the kth the largest element in an unsorted array.
